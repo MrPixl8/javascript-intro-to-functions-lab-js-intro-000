@@ -1,8 +1,5 @@
-var lowercase = "hello!"
-lowercase.toLowerCase() === lowercase
 
 function shout(string) {
-  console.log(shout)
   return string.toUpperCase()
 }
 
@@ -11,7 +8,7 @@ function whisper(string) {
 }
 
 function logShout(string) {
-  console.log("HELLO")
+  console.log(string.ToUpperCase())
 }
 
 function logWhisper(string) {
