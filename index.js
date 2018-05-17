@@ -14,3 +14,7 @@ function logShout(string){
 function logWhisper(string){
   console.log ("hello")
 }
+
+sayHiToGrandma (string) {
+  return "I can't hear you!"
+}
